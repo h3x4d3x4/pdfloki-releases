@@ -1,10 +1,13 @@
-# PDFloki — Releases
+<div align="center">
 
-Official release downloads and the Sparkle auto-update feed for **[PDFloki](https://pdfloki.app)**, a native macOS PDF toolkit.
+<img src="assets/logo.png" width="120" alt="PDFloki" />
 
-- **Download the latest version:** see [Releases](https://github.com/h3x4d3x4/pdfloki-releases/releases/latest).
-- **System requirements:** macOS 14 (Sonoma) or later · Apple Silicon & Intel.
+# PDFloki
 
-This repository hosts the signed, notarized `.dmg` build assets only. The application source is not part of this repository.
+Native PDF toolkit for macOS.
 
-© PDFloki / pdfloki.app
+### [↓ Download the latest release](https://github.com/h3x4d3x4/pdfloki-releases/releases/latest)
+
+<sub>macOS 14+ · Apple Silicon &amp; Intel · [pdfloki.app](https://pdfloki.app)</sub>
+
+</div>
